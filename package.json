@@ -1,0 +1,20 @@
+{
+  "name": "env-map-importance-sampling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "envmap-importance-sampling.js",
+  "scripts": {
+    "dev": "node envmap-importance-sampling.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hdr": "^0.6.1",
+    "image-pixels": "^2.2.2",
+    "jimp": "^0.16.2",
+    "ndarray": "^1.0.19",
+    "save-pixels": "^2.3.6",
+    "zeros": "^1.0.0"
+  }
+}
